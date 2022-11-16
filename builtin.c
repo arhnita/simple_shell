@@ -2,7 +2,6 @@
 
 /**
  * _myexit - exits the shell
- * but leaves in an ovation
  * @info: Structure containing potential arguments
  * Return: 0 if it gives exit status
  */
