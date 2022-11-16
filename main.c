@@ -2,7 +2,6 @@
 
 /**
  * main - entry point
- * it enters worthily
  * @ac: arg count
  * @av: arg vector
  *
