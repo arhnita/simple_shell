@@ -2,7 +2,6 @@
 
 /**
  * hsh - main shell loop
- * doing the looping things
  * @info: the parameter & return info struct
  * @av: the argument vector from main()
  *
